@@ -1,0 +1,78 @@
+Frontier 73C
+Frontier 73C Silencer
+Frontier 73C Marksman
+Infantry 73L
+Infantry 73L Bayonet
+Infantry 73L Sniper
+Marathon
+Marathon Swift
+Ranger 73
+Ranger 73 Aperture
+Ranger 73 Talon
+Ranger 73 Swift
+LeMat Carbine
+LeMat Carbine Marksman
+Officer Carbine
+Officer Carbine Deadeye
+1865 Carbine
+1865 Carbine Aperture
+1865 Carbine Silencer
+Centennial
+Centennial Sniper
+Centennial Trauma
+Drilling
+Maynard Sniper
+Maynard Sniper Silencer
+Springfield 1866
+Springfield 1866 Marksman
+Springfield 1866 Bayonet
+Vetterli 71
+Vetterli 71 Deadeye
+Vetterli 71 Marksman
+Vetterli 71 Bayonet
+Vetterli 71 Silencer
+Vetterli 71 Cyclone
+Berthier 1892
+Berthier 1892 Riposte
+Berthier 1892 Deadeye
+Berthier 1892 Marksman
+Krag
+Krag Bayonet
+Krag Sniper
+Krag Silencer
+Lebel 1886
+Lebel 1886 Aperture
+Lebel 1886 Talon
+Lebel 1886 Marksman
+Mako 1895
+Mako 1895 Claw
+Mako 1895 Aperture
+Martini-Henry
+Martini-Henry Deadeye
+Martini-Henry Riposte
+Martini-Henry Marksman
+Martini-Henry Ironside
+Mosin Obrez Match
+Mosin Obrez Sharpeye
+Mosin-Nagant
+Mosin-Nagant Bayonet
+Mosin-Nagant Sniper
+Mosin-Nagant Avtomat
+Sparks
+Sparks Silencer
+Sparks Sniper
+Auto-5
+Rival 78
+Rival 78 Trauma
+Romero 77
+Romero 77 Talon
+Romero 77 Alamo
+Slate
+Slate Riposte
+Specter 1882
+Specter 1882 Bayonet
+Terminus
+Bomb Lance
+Crossbow
+Crossbow Deadeye
+Nitro Express
