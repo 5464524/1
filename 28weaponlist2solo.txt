@@ -1,3 +1,4 @@
+Haymaker
 Combat Axe
 Chu Ko Nu
 Centennial Shorty
@@ -7,7 +8,6 @@ Bomb Launcher
 Bornheim No. 3 Match
 Drilling Shorty
 Drilling Hatchet
-Haymaker
 Katana
 Mosin Obrez
 Mosin Obrez Mace
