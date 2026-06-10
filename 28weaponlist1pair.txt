@@ -1,6 +1,3 @@
-Bornheim No. 3
-Bornheim No. 3 Silencer
-Bornheim No. 3 Extended
 Conversion
 Conversion Chain Pistol
 LeMat
@@ -17,5 +14,8 @@ Scottfield
 Scottfield Brawler
 Scottfield Spitfire
 Scottfield Swift
+Bornheim No. 3
+Bornheim No. 3 Silencer
+Bornheim No. 3 Extended
 Sparks Pistol
 Sparks Pistol Silencer
